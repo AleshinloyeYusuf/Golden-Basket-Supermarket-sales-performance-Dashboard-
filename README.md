@@ -40,4 +40,4 @@ Excel | Power Query | Power Pivot | DAX | Pivot Tables | Data Cleaning | Data Mo
 - Strengthen promotions, product bundling, and cross-selling within high-performing categories.
 - Investigate low-performing categories to identify demand, pricing, assortment, or availability issues.
 - Analyze the drivers of monthly sales fluctuations to improve sales forecasting and planning.
-- Continuously monitor KPIs through the dashboard to support timely, data-driven decisions.
+- Continuously monitor KPIs through the dashboard to support timely, data-driven decisions
