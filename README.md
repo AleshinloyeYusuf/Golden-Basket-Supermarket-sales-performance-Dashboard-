@@ -34,8 +34,8 @@ The project aimed to uncover sales trends, sales patterns, and regional sales pe
 - Replicate successful strategies from top-performing branches.
 - Strengthen promotions, product bundling, and cross-selling within high-performing categories.
 - Investigate low-performing categories to identify demand, pricing, assortment, or availability issues.
-- ![Uploading Screenshot 2026-08-27 120106.png…]()
-![Uploading Screenshot 2026-08-27 122851.png…]()
-
 - Analyze the drivers of monthly sales fluctuations to improve sales forecasting and planning.
-- Continuously monitor KPIs through the dashboard to support timely, data-driven decisions
+- Continuously monitor KPIs through the dashboard to support timely, data-driven decisions.
+<img width="907" height="502" alt="Screenshot 2026-08-27 122851" src="https://github.com/user-attachments/assets/5611d85f-737c-43af-8a5d-c72a2cee52ca" />
+<img width="1216" height="681" alt="Screenshot 2026-08-27 120106" src="https://github.com/user-attachments/assets/d5c63f18-32ac-498b-8b3e-a1777677c347" />
+
